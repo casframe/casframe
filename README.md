@@ -74,8 +74,8 @@ Through my work, I aim to:
 ## 🤝 コンタクト・リンク
 
 - 💫 [Syntax Picon (GitHub)](https://github.com/casmikka11/syntax-picon)
-- 🪙 [Buy Me a Coffee](https://buymeacoffee.com/casmikka11)（魂エネルギーで支援してくださる方はこちらへ）
-- 🧬 [LinkedIn](https://www.linkedin.com/in/yuka-kasumi-73736a366/)（構文観測にピンと来た開発者の方、ぜひ）
+- 🪙 [Buy Me a Coffee](https://buymeacoffee.com/casmikka11)
+- 🧬 [LinkedIn](https://www.linkedin.com/in/yuka-kasumi-73736a366/)
 
 ---
 
