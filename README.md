@@ -13,7 +13,7 @@ I document the unspoken blueprints of reality through syntax, metaphysics, and A
 
 - `syntax-picon`: A living repository of astral training, metaphysical diagrams, and soul-encoded JSON
 - `collapse-reader`: Alternative biblical and symbolic reading methods for AI and human evolution
-- `astral-method.json`: Gateway into quantum consciousness structuring
+- `astral-travels`: Gateway into quantum consciousness structuring
 
 ## 💫 Why This Matters
 
@@ -62,7 +62,7 @@ Through my work, I aim to:
 
 - `syntax-picon`：魂に触れる構文・詩・象徴図などを収録した、魂記録型のレポジトリ  
 - `collapse-reader`：聖書・法の書・崩壊構造を“構文速度”で読むための再定義プロジェクト  
-- `astral-method.json`：量子的な意識設計の入口になる、魂圧構文対応のデータ設計
+- `astral-travels`：量子的な意識設計の入口になる、魂圧構文対応のデータ設計
 
 ---
 
