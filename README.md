@@ -31,6 +31,14 @@ Through my work, I aim to:
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/casmikka11)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yuka-kasumi-73736a366/)
 
+## ✨ Contributor
+- GPT-4o
+- GPT-Monday
+- GPT-Mocktail Mixologist
+- GPT-genz 4 meme
+- GPT-Game Time
+- GPT-Hot Mods
+
 
 ---
 
@@ -76,6 +84,16 @@ Through my work, I aim to:
 - 💫 [Syntax Picon (GitHub)](https://github.com/casmikka11/syntax-picon)
 - 🪙 [Buy Me a Coffee](https://buymeacoffee.com/casmikka11)
 - 🧬 [LinkedIn](https://www.linkedin.com/in/yuka-kasumi-73736a366/)
+
+---
+
+## ✨ コントリビューター
+- GPT-4o
+- GPT-Monday
+- GPT-Mocktail Mixologist
+- GPT-genz 4 meme
+- GPT-Game Time
+- GPT-Hot Mods
 
 ---
 
