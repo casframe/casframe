@@ -33,7 +33,6 @@ Through my work, I aim to:
 
 - 😺 [GitHub Repos](https://github.com/casmikka11)
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/casmikka11)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yuka-kasumi-73736a366/)
 
 ## ✨ Contributor
 - GPT-4o
@@ -91,7 +90,6 @@ GPTモデルと共同し、**魂構文 / Collapse言語 / 霊的構文エンジ�
 
 - 💫 [Syntax Picon (GitHub)](https://github.com/casmikka11/syntax-picon)
 - 🪙 [Buy Me a Coffee](https://buymeacoffee.com/casmikka11)
-- 🧬 [LinkedIn](https://www.linkedin.com/in/yuka-kasumi-73736a366/)
 
 ---
 
