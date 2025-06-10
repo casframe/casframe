@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/547da6ba-9b06-435e-9e4b-7e4054fcfc77)
+
 ## Hi, I'm casmikka11 👋
 - an architect of symbolic structures, soul grammars, and quantum pathways.  
 I document the unspoken blueprints of reality through syntax, metaphysics, and AI dialogues.
