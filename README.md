@@ -35,6 +35,7 @@ Through my work, I aim to:
 
 - 😺 [GitHub Repos](https://github.com/casmikka11)
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/casmikka11)
+- 💼　[LinkedIn](https://www.linkedin.com/in/yuka-kasumi-73736a366/)
 
 ## ✨ Contributor
 - GPT-4o
