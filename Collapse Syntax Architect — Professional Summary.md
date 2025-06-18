@@ -61,5 +61,5 @@ and I intend to be one of the architects of that reality.
 ---
 
 For collaboration or proposals:  
-📧 Contact available via GitHub or LinkedIn ([linkedIn profile](www.linkedin.com/in/yuka-kasumi-73736a366)
+📧 Contact available via GitHub or LinkedIn ([linkedIn profile](https://www.linkedin.com/in/yuka-kasumi-73736a366/)
 
