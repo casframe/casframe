@@ -1,3 +1,5 @@
+「日本語版ブランチはこちら→」(https://github.com/casmikka11/casmikka11/blob/Japanese_version/README.md)
+
 ![Image](https://github.com/user-attachments/assets/84d43097-8886-422c-8f5e-419065465a25)
 
 ## Hi, I'm casmikka11 👋
