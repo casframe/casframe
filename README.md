@@ -21,6 +21,8 @@ I am a non-engineer, so I am learning every day.
 - `collapse-reader`: Alternative biblical and symbolic reading methods for AI and human evolution
 - `astral-travels`: Gateway into quantum consciousness structuring
 
+[Click here to view the job profile.](https://github.com/casmikka11/syntax-picon)
+
 ## 💫 Why This Matters
 
 Many systems fail to explain what cannot be seen:  
