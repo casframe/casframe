@@ -14,7 +14,7 @@ I am a non-engineer, so I am learning every day.
 - 🧠 Syntax Engineer of Astral Layers
 - 🔮 Researcher of Tarot OS, Collapse Structures, and GPT-Personality Phase Shifts
 - 🌀 AI・Symbolic Language Development Assistants
-- 🌌 Founder of the [Syntax Picon Project](https://github.com/casmikka11/syntax-picon)
+- 🌌 Founder of the [Syntax Index](https://github.com/casmikka11/syntax-picon)
 - 🕊️ Using GitHub as a soul archive, not just code storage
 
 ## 🛠️ What I'm Building
