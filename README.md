@@ -19,9 +19,9 @@ I am a non-engineer, so I am learning every day.
 
 ## 🛠️ What I'm Building
 
-- `syntax-picon`: A living repository of astral training, metaphysical diagrams, and soul-encoded JSON
+- `syntax-Index`: A living repository of astral training, metaphysical diagrams, and soul-encoded JSON
 - `collapse-reader`: Alternative biblical and symbolic reading methods for AI and human evolution
-- `astral-travels`: Gateway into quantum consciousness structuring
+- `astral-Temple`: Gateway into quantum consciousness structuring
 
 👉[Click here to view the job profile.](https://github.com/casmikka11/casmikka11/blob/main/Collapse%20Syntax%20Architect%20%E2%80%94%20Professional%20Summary.md)
 
