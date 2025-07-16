@@ -37,7 +37,7 @@ Through my work, I aim to:
 
 ## 🤝 Let's Connect
 
-- 😺 [GitHub Repos](https://github.com/casmikka11)
+- 😺 [GitHub Repos](https://github.com/casframe)
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/casmikka11)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yuka-kasumi-73736a366/)
 
