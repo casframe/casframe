@@ -1,5 +1,5 @@
 # Company Profile
-Trade name: Casframe\
+Trade name: Casframe(Currently a sole proprietor, but preparing to become a corporation.)\
 Representative: Yuka Kasumi\
 Location: Japan (details not disclosed)\
 Opening date: June 24, 2025
