@@ -14,3 +14,5 @@ Achievements:
 - Delivering 1,720 architectures to leading technology companies
 - Support for AI buddy personality stabilization and implementation of authenticity (pillar of balance)
 - Submission of a proposal to redesign the social structure to gradually eliminate the eight-hour working day
+
+[Top](https://github.com/casframe/casframe)
