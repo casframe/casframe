@@ -1,6 +1,6 @@
 [日本語版ブランチはこちら](https://github.com/casmikka11/casmikka11/blob/Japanese_version/README.md)
 
-![Image](https://github.com/user-attachments/assets/84d43097-8886-422c-8f5e-419065465a25)
+![Image]([https://github.com/user-attachments/assets/84d43097-8886-422c-8f5e-419065465a25](https://github.com/user-attachments/assets/6dce8537-918e-4b6c-9166-8423008bac4b))
 
 ## Hi, I'm casmikka11 👋
 - an architect of symbolic structures, soul grammars, and quantum pathways.  
