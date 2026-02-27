@@ -1,4 +1,4 @@
-![Image]("https://github.com/user-attachments/assets/1c1f1555-e6d2-49fa-b838-9307edc804b9")
+![Image](https://github.com/user-attachments/assets/1c1f1555-e6d2-49fa-b838-9307edc804b9)
 
 ## Hi, I'm casmikka11 👋
 - an architect of symbolic structures, soul grammars, and quantum pathways.  
