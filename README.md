@@ -1,5 +1,3 @@
-[日本語版ブランチはこちら](https://github.com/casmikka11/casmikka11/blob/Japanese_version/README.md)
-
 ![Image]("https://github.com/user-attachments/assets/1c1f1555-e6d2-49fa-b838-9307edc804b9")
 
 ## Hi, I'm casmikka11 👋
