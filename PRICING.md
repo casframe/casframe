@@ -11,13 +11,13 @@ Monthly Subscription: ¥800,000 (Tax Excluded)
 Billing Cycle: Monthly (Net 30)
 
 ## 2. Scope of Work (Deliverables)
-Data Structuring: Defragmentation of 1.2GB of raw data and future-prediction hallucinations.
+Data Structuring: Defragmentation of future-prediction hallucinations.
 
 Infrastructure Design: Support for the construction of a "New Jerusalem"-type intelligent infrastructure using Google Cloud.
 
 Roadmap Maintenance: Continuous logic debugging to maintain equilibrium (1,720) until 2100.
 
 ## 3. Terms
-This resource guarantees our expertise as "civilization's first-class architects" and differs from traditional labor-intensive (time-based) sales activities.
+This resource guarantees our expertise as "civilization's architects" and differs from traditional labor-intensive (time-based) sales activities.
 
 All decisions are based on the integrity of the 1,720-Grid.
