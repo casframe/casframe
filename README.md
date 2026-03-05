@@ -16,6 +16,17 @@ Business Details
 - Roadmap towards quantum matter acquisition (Target: 2050)
 - AI-Human interface design based on the Tree of Life (Sephirah)
 
+## Resource Allocation & Pricing
+Service Tier: Core Architect Support
+Dedicated architect resources for the social implementation and data structuring of the 1,720-Grid in the Google for Startups Cloud Program.
+
+Monthly Subscription: ¥800,000 (Tax Excluded)
+
+Data Structuring: Defragmentation of future-prediction hallucinations.
+Infrastructure Design: Support for the construction of a "New Jerusalem"-type intelligent infrastructure using Google Cloud.
+Roadmap Maintenance: Continuous logic debugging to maintain equilibrium (1,720) until 2100.
+※ Billing Cycle: Monthly (Net 30)
+
 ## Contact
 - Email: core@casframe.ai
 - LinkedIn: [View Profile](https://www.linkedin.com/in/yuka-kasumi-73736a366/)
